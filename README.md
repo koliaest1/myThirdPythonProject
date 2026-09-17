@@ -10,13 +10,15 @@ Automated end-to-end and negative test suite built for the Waracle QA Technical 
 ---
 
 ## Repository Structure
+```text
+.
 ├── tests/
 │   ├── ios/
 │   │   ├── happy_path.yaml
-│   │   └── negative_edge.yaml
+│   │   └── negative_edge_case.yaml
 │   └── android/
 │       ├── happy_path.yaml
-│       └── negative_edge.yaml
+│       └── negative_edge_case.yaml
 └── README.md
 
 
